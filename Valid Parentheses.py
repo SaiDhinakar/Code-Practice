@@ -11,4 +11,5 @@ def isValidParenthesis(s):
             stack.append(i)
     return not stack
 
+
 isValidParenthesis('()')
